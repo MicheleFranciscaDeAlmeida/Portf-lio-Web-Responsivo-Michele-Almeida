@@ -1,21 +1,43 @@
-# Portfólio Web Responsivo - Michele Almeida
+# 💜 Portfólio de Michele Almeida
 
-## Objetivo
-Criar um site responsivo com foco na experiência do usuário, seguindo o conceito Mobile-first.
+Bem-vindo(a) ao meu portfólio pessoal! Aqui você encontra meus projetos web criativos e funcionais, desenvolvidos em HTML, CSS e JavaScript.
 
-## Tecnologias
-- HTML5
-- CSS3 (Flexbox/Grid)
-- JavaScript
-- UX/UI design (Figma)
+---
 
-## Destaques UX/UI
-- Navegação clara
-- Layout responsivo
-- Microinterações e feedback visual
+## 🌟 Sobre Mim
+Sou graduanda em Ciência da Computação e atuo como assessora acadêmica. Desenvolvo projetos web com foco em criatividade, interatividade e experiência do usuário.
 
-## Screenshots
-_(Adicionar imagens/screenshots aqui)_
+---
+
+## 💻 Projetos
+Aqui estão alguns dos meus trabalhos:
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| Projeto 1 | Homepage interativa com cards de experiências e lugares | [GitHub](https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida) |
+| Projeto 2 | Versão secundária da homepage, com recursos adicionais | [GitHub](https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida) |
+| Projeto 3 | Outro projeto em desenvolvimento | [GitHub](https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida) |
+
+
+---
+
+## 📫 Contato
+- **Email:** seuemail@email.com  
+- **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/michele-almeida-60b70b314/)  
+- **GitHub:** [Clique aqui](https://github.com/MicheleFranciscaDeAlmeida)  
+
+---
+
+## 🚀 Como visualizar
+1. Clone ou baixe este repositório.
+2. Abra o arquivo `index.html` no navegador.
+3. Navegue pelas seções Sobre, Projetos e Contato.
+
+---
 
 ## Deploy
-_(Adicionar link do site hospedado, ex: GitHub Pages)_
+_ [GitHub Pages](https://michelefranciscadealmeida.github.io/Portf-lio-Web-Responsivo-Michele-Almeida/)
+
+---
+
+Desenvolvido com 💜 por Michele Almeida
