@@ -33,7 +33,7 @@ Praticar desenvolvimento front-end e criação de layouts responsivos, simulando
 - Foco na experiência do usuário
 
 ## 📷 Demonstração
-![Portfólio Web Responsivo](/assets/projetos/projetoweb1.png)
+![Portfólio Web Responsivo](/assets/projetoweb1.png)
 
 ## 📚 Aprendizados
 Durante o desenvolvimento, foram trabalhados:
