@@ -1,43 +1,50 @@
-# 💜 Portfólio de Michele Almeida
+# 🌐 Portfólio Web Responsivo
 
-Bem-vindo(a) ao meu portfólio pessoal! Aqui você encontra meus projetos web criativos e funcionais, desenvolvidos em HTML, CSS e JavaScript.
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Responsivo](https://img.shields.io/badge/Design-Responsivo-green)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
+## 📌 Sobre o projeto
+Este projeto consiste no desenvolvimento de um site de portfólio pessoal, com foco em apresentar informações profissionais de forma clara, organizada e visualmente atrativa.
+
+## 🎯 Problema que resolve
+Muitos desenvolvedores iniciantes enfrentam dificuldade em apresentar seus projetos e habilidades de forma estruturada e profissional.  
+Este portfólio resolve esse problema ao oferecer uma interface moderna e responsiva para exibição de informações e trabalhos.
+
+## 🎯 Objetivo
+Praticar desenvolvimento front-end e criação de layouts responsivos, simulando um site real para apresentação profissional.
+
+## 🚀 Funcionalidades
+- Estrutura de página pessoal
+- Seção de apresentação
+- Exibição de projetos
+- Layout responsivo para diferentes dispositivos
+- Navegação simples e intuitiva
+
+## 🛠 Tecnologias utilizadas
+- HTML
+- CSS
+
+## 💡 Diferenciais
+- Design moderno e limpo
+- Organização clara das informações
+- Responsividade (adaptável a diferentes telas)
+- Foco na experiência do usuário
+
+## 📷 Demonstração
+(Adicione um print do site aqui, se possível)
+
+## 📚 Aprendizados
+Durante o desenvolvimento, foram trabalhados:
+- Estruturação de páginas web
+- Criação de layouts responsivos
+- Organização visual de conteúdo
+- Boas práticas de front-end
+
+## 🔗 Status do projeto
+✅ Concluído
 
 ---
 
-## 🌟 Sobre Mim
-Sou graduanda em Ciência da Computação e atuo como assessora acadêmica. Desenvolvo projetos web com foco em criatividade, interatividade e experiência do usuário.
-
----
-
-## 💻 Projetos
-Aqui estão alguns dos meus trabalhos:
-
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| Projeto 1 | Homepage interativa com cards de experiências e lugares | [GitHub](https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida) |
-| Projeto 2 | Versão secundária da homepage, com recursos adicionais | [GitHub](https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida) |
-| Projeto 3 | Outro projeto em desenvolvimento | [GitHub](https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida) |
-
-
----
-
-## 📫 Contato
-- **Email:** seuemail@email.com  
-- **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/michele-almeida-60b70b314/)  
-- **GitHub:** [Clique aqui](https://github.com/MicheleFranciscaDeAlmeida)  
-
----
-
-## 🚀 Como visualizar
-1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html` no navegador.
-3. Navegue pelas seções Sobre, Projetos e Contato.
-
----
-
-## Deploy
-_ [GitHub Pages](https://michelefranciscadealmeida.github.io/Portf-lio-Web-Responsivo-Michele-Almeida/)
-
----
-
-Desenvolvido com 💜 por Michele Almeida
+Desenvolvido por Michele Almeida 💻
